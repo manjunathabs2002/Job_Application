@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.env
+uploads/
+dist/
+
+# Logs
+*.log
+
+# Vite cache
+.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
