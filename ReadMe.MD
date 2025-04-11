@@ -1,4 +1,4 @@
-Here is a complete single `README.md` file ready to be placed in the **root** of your combined **frontend + backend** project folder (`job-application-management/`):
+
 
 ---
 
